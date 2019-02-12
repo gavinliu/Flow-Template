@@ -1,5 +1,9 @@
 {
-    "settings": {
+    "info": {
+        "name": "新建项目"
+    },
 
+    "settings": {
+        "screenCapturerEnable": false
     }
 }
